@@ -4,9 +4,9 @@ This is a Ruby script designed to perform WHOIS lookups for a list of domain nam
 
 ## Requirements
 
-- **Ruby**: The programming language used to write this script.
-- **whois gem**: A Ruby gem used for WHOIS lookups.
-- **fileutils gem**: A Ruby gem used for file and directory operations.
+- [**Ruby**](https://www.ruby-lang.org/en/): The programming language used to write this script.
+- [**whois**](https://github.com/weppos/whois): A Ruby gem used for WHOIS lookups.
+- **fileutils**: A Ruby gem used for file and directory operations.
 
 ## Installation
 
